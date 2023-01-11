@@ -1,4 +1,4 @@
-module github.com/oyamo/daraja-go
+module github.com/tanlio/daraja-go
 
 go 1.16
 
